@@ -1,27 +1,20 @@
 ### Hi there 👋
-
+## I'm a Computer Science Student & Aspiring Software Engineer!
 <!--
 **pradhulstha/pradhulstha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a new [New Website][website]!
+- 🌱 I’m currently learning full-stack web/app development.
+- 👯 I’m looking to collaborate with other software developers.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Life Philolosophies
+- 📫 How to reach me: (Email) [mailto:prashulstha@gmail.com]
+- 😄 Pronouns: he/his/him
+- 🥅 2020 Goals: Complete my Bachelors 
+- ⚡ Hobbies: Photography and Listening Lo-Fi
 -->
-### Hi there, I'm Bushan Sirgur - aka [B2 Tech][youtube] 👋
-
-## I'm a Software Engineer, Youtuber, Blogger, and Teacher!
-- 🔭 I’m currently working on a [New Website][website]!
-- 🌱 I’m currently learning new technologies 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Create more content on my youtube channel [B2 Tech][youtube]
-- ⚡ Hobbies: CS Go, Call of duty, Cycling and Listening music
 
 ### Connect with me:
 
