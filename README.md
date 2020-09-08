@@ -2,7 +2,7 @@
 ## I'm a Computer Science Student & Aspiring Software Engineer!
 <!--
 **pradhulstha/pradhulstha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a new [New Website][website]!
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his/him
 - 🥅 2020 Goals: Complete my Bachelors 
 - ⚡ Hobbies: Photography and Listening Lo-Fi
--->
+
 
 ### Connect with me:
 
