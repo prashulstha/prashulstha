@@ -3,9 +3,7 @@
 <!--
 **pradhulstha/pradhulstha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://raw.githubusercontent.com/github_sitting.png" alt="prashul sitting with his phone">
-
-I'm a computer science graduate and a aspiring software engineer who is passionate about creating opportuntites, creating technology to bring positive people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I'm a computer science graduate and a aspiring software engineer who is passionate about creating opportuntites, creating technology to bring positive people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. <br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a new [New Website][website]!
@@ -18,6 +16,7 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Complete my Bachelors 
 - ⚡ Hobbies: Photography and Listening Lo-Fi
 
+<img align="right" alt="Prashul sitting with his phone" width="300px" src="./github_sitting.png"/>
 
 ### Connect with me:
 
