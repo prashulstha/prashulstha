@@ -6,15 +6,14 @@
 I'm a computer science graduate and a aspiring software engineer who is passionate about creating opportuntites, creating technology to bring positive people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a new [New Website][website]!
+- 🔭 Check out my new Website [New Website][website]!
 - 🌱 I’m currently learning full-stack web/app development.
-- 👯 I’m looking to collaborate with other software developers.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Life Philolosophies
+- 🤔 I’m looking for help with ... understanding full-stack software lifecycle.
+- 💬 Ask me about Life.
 - 📫 How to reach me: (Email) [mailto:prashulstha@gmail.com]
 - 😄 Pronouns: he/his/him
-- 🥅 2020 Goals: Complete my Bachelors 
-- ⚡ Hobbies: Photography and Listening Lo-Fi
+- 🥅 2021 Goals: Improve my coding skills.
+- ⚡ Hobbies: Photography([Instagram][instagram]!) and Listening Lo-Fi
 
 <img align="right" alt="Prashul sitting with his phone" width="300px" src="./github_sitting.png"/>
 
@@ -64,7 +63,7 @@ BLOG-POST-LIST:START
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhulstha)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://prashulshrestha.com
+[website]: https://prashulshrestha.me
 [twitter]: https://twitter.com/prashul_newar
 [youtube]: https://www.youtube.com/channel/UCdVu5GBSIy_Fa0psX4f7-pw
 [instagram]: https://instagram.com/prashuls
