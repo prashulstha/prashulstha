@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning full-stack web/app development.
 - 🤔 I’m looking for help with ... understanding full-stack software lifecycle.
 - 💬 Ask me about Life.
-- 📫 How to reach me: Email[mailto:prashulstha@gmail.com]
+- 📫 How to reach me: [prashulstha@gmail.com]
 - 😄 Pronouns: he/his/him
 - 🥅 2021 Goals: Improve my coding skills.
 - ⚡ Hobbies: Photography([Instagram][instagram]!) and Listening Lo-Fi
